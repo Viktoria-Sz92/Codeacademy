@@ -1,17 +1,3 @@
-import { HashRouter, Routes, Route } from 'react-router-dom';
-
-function App() {
-  return (
-    <HashRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-      </Routes>
-    </HashRouter>
-  );
-}
-
-
 // Media
 import multiversum from './assets/background/multiversum.mp4';
 import universe from './assets/background/universe.mp4';
