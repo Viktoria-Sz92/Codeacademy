@@ -4,7 +4,7 @@ Single Page Anwendung zur Darstellung von abgeschlossenen und laufenden Codeacad
 Die Seite wird nach jedem abgeschlossenen Kurs aktualisiert.
 
 
-## Live Demo:
+## Live Demo
 
 https://viktoria-sz92.github.io/Codeacademy/
 
